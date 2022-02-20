@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x9e097C0c9B43E3a9659e38c6FAb53Bb46E73FcD6",
+  "SCAN_LINK": "https://polygonscan.com/token/0x9e097C0c9B43E3a9659e38c6FAb53Bb46E73FcD6",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "OpenSeaNFT",
+  "SYMBOL": "OpenSeaNFT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 2000000000000000000,
+  "DISPLAY_COST": 2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/openseanft-v3-1",
+  "SHOW_BACKGROUND": true
+}
